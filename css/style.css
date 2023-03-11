@@ -1,0 +1,21 @@
+.col-4{
+    position: relative;
+}
+.card-img-top1{
+    padding:30px;
+
+}
+.card-img-top2{
+    height: 628px;
+}
+.card-img{
+    height: 100px;
+    width: 100px;
+    padding :20px
+}
+
+.title-heading p{
+    font-size: 1.5em;
+	font-weight: lighter;
+	color: rgb(0, 0, 0);
+}
